@@ -19,6 +19,18 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Oracle Cloud Infrastructure
+    output: web, pdf
+    folderitems:
+
+    - title: 오라클 클라우드 사용자 가이드
+      url: /mydoc_oci_user_guide.html
+      output: web, pdf
+
+    - title: OCI 주요 서비스
+      url: /mydoc_oci_major_service.html
+      output: web, pdf
+
   - title: Overview
     output: web, pdf
     folderitems:
